@@ -1,0 +1,15 @@
+{
+  "name": "webpackbin",
+  "version": "0.0.1",
+  "description": "webpackbin redirect",
+  "main": "index.js",
+  "repository": "git@github.com:graingert/webpackbin.git",
+  "author": "Thomas Grainger <tagrain@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
